@@ -21,8 +21,9 @@
           <i class="iconfont icon-t"></i>
           <i18n>
             <template #zh>
+              <!-- {{ articleDetailStore.contentLength }} -->
               <span
-                >共 {{ articleDetailStore.contentLength }} 字，需阅读
+                >共 乱七八糟 字，需阅读
                 {{ articleDetailStore.readMinutes }} 分钟</span
               >
             </template>
